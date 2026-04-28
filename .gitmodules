@@ -33,3 +33,6 @@
 	url = https://github.com/higress-group/envoy
 	branch = envoy-1.36
 	shallow = true
+[submodule "learning/markdownlint"]
+	path = learning/markdownlint
+	url = git@github.com:DavidAnson/markdownlint.git
